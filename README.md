@@ -6,8 +6,8 @@ We provide *CORRECT* software, well-tested, production-ready and standards-compl
 
 In my pinned repositories you will find projects related to the SDMX, VTL and DPM standards:
 
-### SDNX
-- [pysdmx](https://github.com/bis-med-it/pysdmx) is an opinionated SDMX library that implements a subset of the standard, focusing on the most-used elements
+### SDMX
+- [pysdmx](https://github.com/bis-med-it/pysdmx) is an opinionated SDMX library with user-friendly functionalities to close the gap between IT and Stats
 - [sdmxthon](https://github.com/Meaningful-Data/sdmxthon) (Close to be deprecated) is a simple SDMX-ML 2.1 library to handle SDMX data and metadata
 
 ### VTL
