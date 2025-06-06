@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Working at [MeaningfulData](https://www.meaningfuldata.eu/) developing solutions for the statistical and regulatory worlds. I am a Lead Software Engineer and Project Manager for the Open Source initiatives of my company, plus some other private projects for our clients.
+Working at [MeaningfulData](https://www.meaningfuldata.eu/) developing solutions for the statistical and regulatory worlds. 
 
 We provide *CORRECT* software, well-tested, production-ready and standards-compliant.
 
@@ -18,6 +18,7 @@ In my pinned repositories you will find Open Source projects related to the SDMX
 
 ## About me 🧑‍💻
 
+I am a Lead Software Engineer and Project Manager for the Open Source initiatives of my company, plus some other private projects for our clients.
 Living in Salamanca, Spain (one of the best cities in the world). I love disassembling and building stuff, racing (physical or sim-racing) and always looking for new experiences.
 
 ## Favourite Motto
